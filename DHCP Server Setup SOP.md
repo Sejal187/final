@@ -202,7 +202,12 @@ The following diagram represents the network topology for the DHCP server setup.
 
 Setting up a DHCP server on Windows Server 2022 ensures efficient IP address management, improves network reliability, and enhances administrative control. Following the outlined steps will help IT administrators deploy a secure and well-structured DHCP service. Regular monitoring and best security practices should be implemented to maintain server integrity.
 
-                
+---
+
+## **Resources**
+
+https://www.microsoft.com/en-us/windows-server/?msockid=3fab7419818e6e2f37636076803a6f03
+https://www.microsoft.com/en-ca/d/windows-server-2022-standard-cal/dg7gmgf0d6m5?msockid=3fab7419818e6e2f37636076803a6f03&activetab=pivot:overviewtab
 
 
 
